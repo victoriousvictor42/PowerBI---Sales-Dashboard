@@ -1,4 +1,4 @@
-# Power-BI - Anoymized-Sales
+# Power-BI - Car Sales
 ## Description
 #### creating visualisations and dashboards using Power BI for car sales, 3/2/2025
 #### By **Victor Mwenda**
